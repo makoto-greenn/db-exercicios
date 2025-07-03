@@ -16,8 +16,8 @@ Treine um pouco de SQL e DBs.
 
 ### Como submeter
 
-Após terminar, faça um commit e um push das suas respostas.
-Abra um Pull Request no seu fork, e me envie! 
+- Após terminar, faça um commit e um push das suas respostas.
+- Abra um Pull Request no seu fork, e me envie! 
 
 ## Exercicios
 
