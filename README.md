@@ -6,18 +6,18 @@ Treine um pouco de SQL e DBs.
 
 ### Como começar
 
-1. Faça um fork deste repositório.
-2. Clone o seu fork.
+- Faça um fork deste repositório.
+- Clone o seu fork.
 
 ### Como responder
 
-- Crie suas respostas na pasta respostas/, seguindo o padrão sugerido.
-- Use arquivos .sql para cada exercício.
+- Crie suas respostas na pasta `respostas/`, seguindo o padrão sugerido.
+- Use arquivos `.sql` para cada exercício.
 
 ### Como submeter
 
 - Após terminar, faça um commit e um push das suas respostas.
-- Abra um Pull Request no seu fork, e me envie! 
+- Abra um Pull Request no seu fork, e me envie!
 
 ## Exercicios
 
