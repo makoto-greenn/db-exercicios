@@ -4,9 +4,11 @@
 
 Uma escola deseja organizar suas informações em um banco de dados relacional. Para isso, foram criadas as seguintes tabelas:
 
-alunos: armazena os dados dos alunos, contendo um identificador único (id) e o nome do aluno (nome).
-cursos: armazena os dados dos cursos oferecidos, contendo um identificador único (id) e o nome do curso (nome).
-matriculas: registra as matrículas dos alunos nos cursos, contendo um identificador único (id), o identificador do aluno (aluno_id) e o identificador do curso (curso_id). Os campos aluno_id e curso_id são chaves estrangeiras que referenciam, respectivamente, as tabelas alunos e cursos.
+- alunos: armazena os dados dos alunos, contendo um identificador único (id) e o nome do aluno (nome).
+
+- cursos: armazena os dados dos cursos oferecidos, contendo um identificador único (id) e o nome do curso (nome).
+
+- matriculas: registra as matrículas dos alunos nos cursos, contendo um identificador único (id), o identificador do aluno (aluno_id) e o identificador do curso (curso_id). Os campos aluno_id e curso_id são chaves estrangeiras que referenciam, respectivamente, as tabelas alunos e cursos.
 Com base nessas tabelas, desenvolva consultas SQL para responder aos exercícios propostos.
 
 ## Exercicios
